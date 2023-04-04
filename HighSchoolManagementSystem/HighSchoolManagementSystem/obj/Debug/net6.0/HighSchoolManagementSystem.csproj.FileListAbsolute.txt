@@ -1,0 +1,15 @@
+C:\Users\ardak\Desktop\C#\HighSchoolManagementSystem\HighSchoolManagementSystem\bin\Debug\net6.0\HighSchoolManagementSystem.exe
+C:\Users\ardak\Desktop\C#\HighSchoolManagementSystem\HighSchoolManagementSystem\bin\Debug\net6.0\HighSchoolManagementSystem.deps.json
+C:\Users\ardak\Desktop\C#\HighSchoolManagementSystem\HighSchoolManagementSystem\bin\Debug\net6.0\HighSchoolManagementSystem.runtimeconfig.json
+C:\Users\ardak\Desktop\C#\HighSchoolManagementSystem\HighSchoolManagementSystem\bin\Debug\net6.0\HighSchoolManagementSystem.dll
+C:\Users\ardak\Desktop\C#\HighSchoolManagementSystem\HighSchoolManagementSystem\bin\Debug\net6.0\HighSchoolManagementSystem.pdb
+C:\Users\ardak\Desktop\C#\HighSchoolManagementSystem\HighSchoolManagementSystem\obj\Debug\net6.0\HighSchoolManagementSystem.csproj.AssemblyReference.cache
+C:\Users\ardak\Desktop\C#\HighSchoolManagementSystem\HighSchoolManagementSystem\obj\Debug\net6.0\HighSchoolManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardak\Desktop\C#\HighSchoolManagementSystem\HighSchoolManagementSystem\obj\Debug\net6.0\HighSchoolManagementSystem.AssemblyInfoInputs.cache
+C:\Users\ardak\Desktop\C#\HighSchoolManagementSystem\HighSchoolManagementSystem\obj\Debug\net6.0\HighSchoolManagementSystem.AssemblyInfo.cs
+C:\Users\ardak\Desktop\C#\HighSchoolManagementSystem\HighSchoolManagementSystem\obj\Debug\net6.0\HighSchoolManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ardak\Desktop\C#\HighSchoolManagementSystem\HighSchoolManagementSystem\obj\Debug\net6.0\HighSchoolManagementSystem.dll
+C:\Users\ardak\Desktop\C#\HighSchoolManagementSystem\HighSchoolManagementSystem\obj\Debug\net6.0\refint\HighSchoolManagementSystem.dll
+C:\Users\ardak\Desktop\C#\HighSchoolManagementSystem\HighSchoolManagementSystem\obj\Debug\net6.0\HighSchoolManagementSystem.pdb
+C:\Users\ardak\Desktop\C#\HighSchoolManagementSystem\HighSchoolManagementSystem\obj\Debug\net6.0\HighSchoolManagementSystem.genruntimeconfig.cache
+C:\Users\ardak\Desktop\C#\HighSchoolManagementSystem\HighSchoolManagementSystem\obj\Debug\net6.0\ref\HighSchoolManagementSystem.dll
